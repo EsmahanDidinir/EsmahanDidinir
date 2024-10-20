@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esmahan</h1>
 <h3 align="center">I am a frontend developer. I am learning **React** to create nice web apps. I like making websites that are easy to use.</h3>
 
-- 🌱 I’m currently learning
+🌱 I’m currently learning
    - **React**: I am learning how to build components.
    -  **JavaScript**: I want to improve my skills in this language.
    -  **CSS**: I am working on making my designs better.
