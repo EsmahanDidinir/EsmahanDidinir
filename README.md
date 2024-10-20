@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning
    - **React**: I am learning how to build components.
- - **JavaScript**: I want to improve my skills in this language.
- - **CSS**: I am working on making my designs better.**
+   -  **JavaScript**: I want to improve my skills in this language.
+   -  **CSS**: I am working on making my designs better.**
 
 - 🎯 Future Goals
   **In the future, I want to learn about **Data Science**. I am excited to use data to solve problems.**
