@@ -10,6 +10,9 @@ I have basic knowledge in data analysis and machine learning, and I'm familiar w
 
 ## 🚀 Passion:
 I'm passionate about continuous learning and working on projects that help me grow.
+## 📈 GitHub Stats
+![Esmahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmahandidinir&show_icons=true&theme=tokyonight)
+
 
 ## 💬 Feel free to contact me:  
 [LinkedIn](https://www.linkedin.com/in/esmahan-didinir)
