@@ -1,25 +1,15 @@
 # 👋 Hi, I'm Esmahan
 
-I'm a Computer Engineering student. I'm currently focusing on **frontend development** and **data science**. I love learning and embracing new technologies to improve my skills.
-
-## 🖥️ Frontend Development:
-I have experience with `HTML`, `CSS`, `JavaScript`, and I'm currently learning `React`.
+I'm a Computer Engineering student. I'm currently focusing on  **data science** and **frontend development** . I love learning and embracing new technologies to improve my skills.
 
 ## 📊 Data Science:
 I have basic knowledge in data analysis and machine learning, and I'm familiar with libraries like `Pandas` and `Matplotlib`.
-
+## 🖥️ Frontend Development:
+I have experience with `HTML`, `CSS`, `JavaScript`, and I'm currently learning `React`.
 ## 🚀 Passion:
 I'm passionate about continuous learning and working on projects that help me grow.
-
-## 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmahandidinir&layout=compact&theme=tokyonight)
-
-
-
 ## 💬 Feel free to contact me:  
 [LinkedIn](https://www.linkedin.com/in/esmahan-didinir)
-
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
