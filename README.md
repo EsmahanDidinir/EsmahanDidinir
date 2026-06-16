@@ -1,51 +1,58 @@
 # 👋 Hi, I'm Esmahan
 
-I'm a Computer Engineering student. I'm currently focusing on  **data science** and **frontend development** . I love learning and embracing new technologies to improve my skills.
+I'm a Computer Engineering student focused on **Artificial Intelligence** and **Backend Development**.
 
-## 📊 Data Science:
-I have basic knowledge in data analysis and machine learning, and I'm familiar with libraries like `Pandas` and `Matplotlib`.
-## 🖥️ Frontend Development:
-I have experience with `HTML`, `CSS`, `JavaScript`, and I'm currently learning `React`.
-## 🚀 Passion:
-I'm passionate about continuous learning and working on projects that help me grow.
-## 💬 Feel free to contact me:  
+I enjoy building practical AI systems and working on projects that combine NLP, LLMs, and software engineering.
+
+---
+
+## 🤖 AI / Backend Focus
+I recently developed an AI-powered system that includes:
+- Speech-to-text conversion  
+- Text summarization  
+- Question-answering over transcripts  
+
+Through this project, I gained hands-on experience in:
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Prompt engineering
+- API development (FastAPI)
+
+---
+
+## 📊 Data Science (Foundations)
+I have basic knowledge of data analysis and machine learning, and I am familiar with libraries such as:
+`Pandas`, `Matplotlib`
+
+---
+
+## 🖥️ Frontend Development
+I have experience with:
+`HTML`, `CSS`, `JavaScript`
+
+Currently improving my skills in:
+`React`
+
+---
+
+## 🚀 Passion
+I'm passionate about building real-world projects, continuous learning, and improving my skills in AI and software development.
+
+---
+
+## 💬 Contact
 [LinkedIn](https://www.linkedin.com/in/esmahan-didinir)
+
+---
+
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
 </p>
-
-
