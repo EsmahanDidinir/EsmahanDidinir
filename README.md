@@ -60,10 +60,6 @@ I'm passionate about building real-world projects, continuous learning, and impr
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsmahanDidinir&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EsmahanDidinir&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EsmahanDidinir&theme=github_dark&utcOffset=3" />
 </p>
 
