@@ -21,15 +21,6 @@ I'm focusing on:
 * LLMs
 * Prompt Engineering
 * AI APIs
-
-### 🖥️ Frontend Development
-
-I'm currently building my **personal portfolio website** with React to improve my frontend development skills.
-
-**Currently using:**
-
-`React` `JavaScript` `HTML` `CSS`
-
 ---
 
 ## 🤖 AI & Backend Project
