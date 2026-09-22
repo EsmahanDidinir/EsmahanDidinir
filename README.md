@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Esmahan</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=450&lines=AI+%26+Backend+Developer;Building+with+Python;Always+Learning+%26+Building" />
-</p>
-
+<h1 align="center">Hi ✨, I'm Esmahan</h1>
 ### About Me
 
 I'm a **Software Developer** interested in **Artificial Intelligence and Backend Development**.
