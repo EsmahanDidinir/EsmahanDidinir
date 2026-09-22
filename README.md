@@ -1,66 +1,68 @@
-# 👋 Hi, I'm Esmahan
+<h1 align="center">Hi 👋, I'm Esmahan</h1>
 
-I'm a **Computer Engineering student** interested in **Artificial Intelligence and Backend Development**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;AI+%26+Backend+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
-I learn by building projects and continuously improving my software development skills.
-
----
-
-## 🚀 Currently Learning & Building
-
-### 🤖 Artificial Intelligence
-
-I'm currently following an **8-week AI learning plan** to strengthen my foundations and build practical AI projects.
-
-I'm focusing on:
-
-* Python
-* Data Analysis
-* Machine Learning
-* NLP
-* LLMs
-* Prompt Engineering
-* AI APIs
----
-
-## 🤖 AI & Backend Project
-
-I previously developed an AI-powered system that includes:
-
-* Speech-to-text conversion
-* Text summarization
-* Question answering over transcripts
-* API development with FastAPI
-
-This project helped me gain practical experience with:
-
-`Python` `NLP` `LLMs` `FastAPI`
-
----
-
-## 🛠️ Technologies
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/esmahan-didinir">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 🎯 Goal
+### 👩🏻‍💻 About Me
 
-My goal is to become a strong **software engineer specializing in AI and Backend Development** while continuing to improve my frontend skills.
+I'm a **Computer Engineering student** interested in **Artificial Intelligence and Backend Development**.
+
+I enjoy learning by building projects and improving my software development skills.
+
+* 🤖 Interested in AI and LLMs
+* ⚙️ Interested in backend development
+* 🐍 Mainly working with Python
+* 🧩 Learning by building real projects
 
 ---
 
-## 💬 Connect With Me
+### 🧠 AI & Backend
 
-[LinkedIn](https://www.linkedin.com/in/esmahan-didinir)
+I developed an AI-powered application that includes:
+
+* 🎙️ Speech-to-text
+* 📝 Text summarization
+* 💬 Question answering
+* 🔗 AI API integration
+* ⚡ REST API with FastAPI
+
+**Tech:** `Python` `NLP` `LLMs` `FastAPI`
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,javascript,react,html,css,postgres,mysql,git,github" />
+</p>
+
+---
+
+### 🎯 Currently
+
+```text
+AI              ███████████████░░░  Learning
+Backend         ██████████████░░░░  Building
+Frontend        ███████████░░░░░░░  Improving
+```
+
+---
+
+### 📌 Goal
+
+Become a **Software Engineer focused on AI and Backend Development** while continuing to improve my frontend skills.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EsmahanDidinir&style=flat&color=blueviolet" alt="Profile views" />
+</p>
